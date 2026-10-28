@@ -5,3 +5,5 @@ Interactive equipment-finance demonstration, hosted with Streamlit. The HTML con
 Run: `pip install -r requirements.txt` then `streamlit run app.py`.
 
 Audio is disabled; film mode uses silent 55-second steps. Refresh the page to restart the demo.
+
+Click **See it work**, then **Use sample package**, then **Process package & run prewrite** to demonstrate without local files.
